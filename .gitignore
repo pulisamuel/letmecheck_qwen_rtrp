@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Build output
+dist
+/build
+
+# Environment files
+.env
+.env.local
+.env*.local
+
+# OS files
+.DS_Store
+*.log
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Coverage
+coverage
